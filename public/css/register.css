@@ -1,0 +1,15 @@
+div.content {
+text-align: center;
+}
+label {
+display: block;
+}
+input {
+width: 250px;
+}
+button {
+font-size: 20px;
+}
+.component {
+padding: 10px;
+}

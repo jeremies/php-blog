@@ -20,6 +20,10 @@ border-right: 1px solid #bbb;
 .navbar li:last-child {
 border-right: none;
 }
+.navbar li.right {
+float: right;
+border-right: 1px solid #bbb;
+}
 .navbar li a {
 display: block;
 color: white;
@@ -29,4 +33,7 @@ text-decoration: none;
 }
 .navbar li a:hover {
 background-color: #111;
+}
+div.alert {
+color: red;
 }
