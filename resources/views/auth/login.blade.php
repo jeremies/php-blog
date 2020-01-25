@@ -26,5 +26,4 @@
         <button type="submit">Login</button>
     </div>
 </form>
-{{ phpinfo() }}
 @endsection
