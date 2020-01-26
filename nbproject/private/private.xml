@@ -3,24 +3,31 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/home/quim/.projectes/php-blog/resources/views/posts.blade.php</file>
-            <file>file:/home/quim/.projectes/php-blog/resources/views/auth/register.blade.php</file>
-            <file>file:/home/quim/.projectes/php-blog/routes/web.php</file>
             <file>file:/home/quim/.projectes/php-blog/public/index.php</file>
-            <file>file:/home/quim/.projectes/php-blog/app/Http/Middleware/Authenticate.php</file>
-            <file>file:/home/quim/.projectes/php-blog/resources/views/auth/login.blade.php</file>
-            <file>file:/home/quim/.projectes/php-blog/app/Http/Controllers/Auth/LoginController.php</file>
-            <file>file:/home/quim/.projectes/php-blog/app/User.php</file>
-            <file>file:/home/quim/.projectes/php-blog/app/Post.php</file>
-            <file>file:/home/quim/.projectes/php-blog/tests/Feature/ExampleTest.php</file>
             <file>file:/home/quim/.projectes/php-blog/app/Providers/RouteServiceProvider.php</file>
-            <file>file:/home/quim/.projectes/php-blog/app/Http/Controllers/Auth/RegisterController.php</file>
-            <file>file:/home/quim/.projectes/php-blog/public/css/posts.css</file>
-            <file>file:/home/quim/.projectes/php-blog/tests/TestCase.php</file>
+            <file>file:/home/quim/.projectes/php-blog/vendor/laravel/framework/src/Illuminate/Foundation/Testing/TestResponse.php</file>
+            <file>file:/home/quim/.projectes/php-blog/resources/views/auth/login.blade.php</file>
             <file>file:/home/quim/.projectes/php-blog/tests/CreatesApplication.php</file>
-            <file>file:/home/quim/.projectes/php-blog/app/Http/Controllers/Post/PostController.php</file>
             <file>file:/home/quim/.projectes/php-blog/resources/views/layouts/app.blade.php</file>
+            <file>file:/home/quim/.projectes/php-blog/vendor/laravel/framework/src/Illuminate/Contracts/Foundation/Application.php</file>
+            <file>file:/home/quim/.projectes/php-blog/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php</file>
+            <file>file:/home/quim/.projectes/php-blog/app/Http/Controllers/Auth/RegisterController.php</file>
+            <file>file:/home/quim/.projectes/php-blog/tests/TestCase.php</file>
+            <file>file:/home/quim/.projectes/php-blog/app/Http/Controllers/Auth/LoginController.php</file>
             <file>file:/home/quim/.projectes/php-blog/resources/views/new.blade.php</file>
+            <file>file:/home/quim/.projectes/php-blog/public/css/posts.css</file>
+            <file>file:/home/quim/.projectes/php-blog/vendor/laravel/framework/src/Illuminate/Foundation/Auth/RegistersUsers.php</file>
+            <file>file:/home/quim/.projectes/php-blog/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php</file>
+            <file>file:/home/quim/.projectes/php-blog/routes/web.php</file>
+            <file>file:/home/quim/.projectes/php-blog/resources/views/auth/register.blade.php</file>
+            <file>file:/home/quim/.projectes/php-blog/app/User.php</file>
+            <file>file:/home/quim/.projectes/php-blog/resources/views/posts.blade.php</file>
+            <file>file:/home/quim/.projectes/php-blog/tests/Feature/ExampleTest.php</file>
+            <file>file:/home/quim/.projectes/php-blog/app/Http/Middleware/Authenticate.php</file>
+            <file>file:/home/quim/.projectes/php-blog/vendor/laravel/framework/src/Illuminate/Foundation/Testing/Concerns/InteractsWithAuthentication.php</file>
+            <file>file:/home/quim/.projectes/php-blog/vendor/laravel/framework/src/Illuminate/Support/Str.php</file>
+            <file>file:/home/quim/.projectes/php-blog/app/Post.php</file>
+            <file>file:/home/quim/.projectes/php-blog/app/Http/Controllers/Post/PostController.php</file>
         </group>
     </open-files>
 </project-private>
